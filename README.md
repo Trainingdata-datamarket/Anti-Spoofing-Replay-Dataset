@@ -7,7 +7,7 @@
 
 <a name="about"></a>
 # About the dataset
-We introduce a large image dataset Anti Spoofing Replay for training a neural network to repel various attacks on biometric access systems. The dataset consists replay attacks - videos from `Antispoofing Real Dataset` (https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/tree/main) filmed on the phone. "Anti Spoofing Replay Dataset" solves the tasks of training algorithms to distinguish real users from scammers, who use videos of people in order to pass the identification procedure. Proposed dataset allows to build identity recognition systems, which can be used to develop anti-spoofing solutions, such as countermeasures and system configurations that can help make authentication systems more secure.
+We introduce a large image dataset Anti Spoofing Replay for training a neural network to repel various attacks on biometric access systems. The dataset consists replay attacks - videos from `Antispoofing Real Dataset` (https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/tree/main) filmed on the phone. `Anti Spoofing Replay Dataset` solves the tasks of training algorithms to distinguish real users from scammers, who use videos of people in order to pass the identification procedure. Proposed dataset allows to build identity recognition systems, which can be used to develop anti-spoofing solutions, such as countermeasures and system configurations that can help make authentication systems more secure.
 
 The dataset consists of 26,591 videos of replay attacks from 24,000+ unique people from 157 countries. The data for the dataset is still gathering, so the number of videos and photos is getting bigger!
 
