@@ -31,19 +31,12 @@ The dataset consists of 26,591 videos of replay attacks from 24,000+ unique peop
 
 ### Gender of people in the dataset
 
-![image](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/43882f2b-e8e2-439a-9f6a-a13051124541)
-
-### Countries of people in the dataset
-
-![image](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/9a183127-116c-47c5-8702-b0576745edf4)
-
-### Regions of people in the dataset
-
-![image](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/6fa09600-c1db-4376-8a75-3c813f4146ff)
+![image](https://github.com/trainingdata-pro/Anti-Spoofing-Replay-Dataset/assets/113421352/a746259e-7076-404c-b811-66bbbb133839)
 
 ### Age of people in the dataset
 
-![image](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/b39e02e5-9e3b-427f-bb4d-8d1a8563e559)
+![image](https://github.com/trainingdata-pro/Anti-Spoofing-Replay-Dataset/assets/113421352/92d71265-7c4e-4825-8168-3b59531a1973)
+
 
 ### Phone model of people in the dataset
 
@@ -75,6 +68,10 @@ The dataset consists of 26,591 videos of replay attacks from 24,000+ unique peop
 | Hisense | 0,07% |
 | iPad | 0,04% |
 | Ulefone | 0,03% |
+
+### Extensions of files in the dataset
+
+![image](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/6fa09600-c1db-4376-8a75-3c813f4146ff)
 
 <a name="cont"></a>
 # Content
