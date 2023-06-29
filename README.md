@@ -11,10 +11,6 @@ We introduce a large image dataset Anti Spoofing Replay for training a neural ne
 
 The dataset consists of 26,591 videos of replay attacks from 24,000+ unique people from 157 countries. The data for the dataset is still gathering, so the number of videos and photos is getting bigger!
 
-### The dataset includes 2 different types of files:
-- **Photo** - a selfie of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible.
-- **Video** - filmed on the front camera, on which a person moves his/her head left, right, up and down. Duration of the video is from 10 to 20 seconds.
-
 ### Data in the dataset
 - People from 18 to 80 age old are presented in the dataset.
 - For each person in the dataset the following data is presented:
