@@ -18,7 +18,7 @@ The dataset consists of 26,591 videos of replay attacks from 24,000+ unique peop
 ### Data in the dataset
 - People from 18 to 80 age old are presented in the dataset.
 - For each person in the dataset the following data is presented:
-- - t
+  - t
 - The data was mostly (approximately **90%**) collected indoor, however there are also selfies and videos made outdoors.
 - The lighting is artificial in **80%** of cases,  **5%** natural daily lightning, **5%** evening outdoor lighting, **10%** - dark indoor lighting.
 - People turn their heads, videos and photos are filmed so that the head takes up at least 1/2 of the frame.
