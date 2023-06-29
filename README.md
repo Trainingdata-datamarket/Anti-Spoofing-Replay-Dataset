@@ -84,22 +84,17 @@ The dataset consists of 26,591 videos of replay attacks from 24,000+ unique peop
 
 ### File with the extension .csv
 includes the following information for each media file:
-- **phone**: the device used to capture the media files,
-- **selfie_link**: the URL to access the photo
-- **video_link**: the URL to access the video
+- **live_video_id**: the unique identifier of the "Antispoofing Live" video
+- **phone**: the device used to capture the replay video,
+- **link**: the URL to access the replay video,
+- **phone_video_payback**: the device used to play the "Antispoofing Live" video,
 - **worker_id**: the identifier of the person who provided the media file,
-- **age**: the age of the person,
-- **country**: the country of origin of the person,
-- **gender**: the gender of the person,
-- **selfie_file_type**: the type of the photo,
-- **video_file_type**: the type of the video
 
 <a name="getdat"></a>
 # Get the Dataset
 This is just an example of the data. If you need access to the entire dataset, contact us via [sales@trainingdata.pro](mailto:sales@trainingdata.pro) or leave a request on **https://trainingdata.pro/data-market?utm_source=github**
 
 
-![live_video (2) (1)](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/b992396a-a5d5-42fd-86bb-e12d8624c7d8)
 
 <a name="link"></a>
 # Links
