@@ -38,37 +38,6 @@ The dataset consists of 26,591 videos of replay attacks from 24,000+ unique peop
 ![image](https://github.com/trainingdata-pro/Anti-Spoofing-Replay-Dataset/assets/113421352/92d71265-7c4e-4825-8168-3b59531a1973)
 
 
-### Phone model of people in the dataset
-
-| Brand | % |
-| --- | --- |
-| Samsung | 21,99% |
-| iPhone | 18,04% |
-| Xiaomi | 15,54% |
-| Infinix | 5,12% |
-| Huawei | 4,97% |
-| Oppo | 4,73% |
-| Tecno | 4,67% |
-| Vivo | 4,46% |
-| Motorola | 4,23% |
-| RealMe | 3,57% |
-| Honor | 2,32% |
-| Itel | 0,94% |
-| LG | 0,94% |
-| Nokia | 0,63% |
-| OnePlus | 0,60% |
-| ZTE | 0,35% |
-| Alcatel | 0,23% |
-| Asus | 0,23% |
-| Google | 0,15% |
-| Umidigi | 0,15% |
-| Lenovo | 0,12% |
-| Sony | 0,09% |
-| Spark | 0,09% |
-| Hisense | 0,07% |
-| iPad | 0,04% |
-| Ulefone | 0,03% |
-
 ### Extensions of files in the dataset
 
 ![image](https://github.com/trainingdata-pro/Anti-Spoofing-Replay-Dataset/assets/113421352/08e7a3b9-1968-4e3c-bfe4-1379da1c920a)
