@@ -24,7 +24,7 @@ The dataset consists of 26,591 videos of replay attacks from 24,000+ unique peop
 - Distance from the camera is approximately 30 centimeters.
 
 ### People in the dataset
-![Desktop - 1](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/e699fc8c-4194-4222-86ab-17a3107e34a7)
+![Desktop - 1 (1)](https://github.com/trainingdata-pro/Anti-Spoofing-Replay-Dataset/assets/113421352/c8fb7c56-616c-41b6-8c71-5db9795216fe)
 
 <a name="dist"></a>
 # Distributions
