@@ -18,9 +18,9 @@ The dataset consists of 26,591 videos of replay attacks from 24,000+ unique peop
 ### Data in the dataset
 - People from 18 to 80 age old are presented in the dataset.
 - For each person in the dataset the following data is presented:
-  - **video_extension - extension of the video
-  - **phone_shot - model of the phone on which the video is shot
-  - **phone_replay - phone model on which the video is played
+  - **video_extension** - extension of the video
+  - **phone_shot** - model of the phone on which the video is shot
+  - **phone_replay** - phone model on which the video is played
   - **assignment_id** - unique identifier of the file
   - **worker_id** - unique identifier of the person
   - **age** - ahe of the person
