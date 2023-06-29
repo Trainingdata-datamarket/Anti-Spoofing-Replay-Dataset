@@ -18,11 +18,20 @@ The dataset consists of 26,591 videos of replay attacks from 24,000+ unique peop
 ### Data in the dataset
 - People from 18 to 80 age old are presented in the dataset.
 - For each person in the dataset the following data is presented:
-  - t
-- The data was mostly (approximately **90%**) collected indoor, however there are also selfies and videos made outdoors.
+  - **video_extension - extension of the video
+  - **phone_shot - model of the phone on which the video is shot
+  - **phone_replay - phone model on which the video is played
+  - **assignment_id** - unique identifier of the file
+  - **worker_id** - unique identifier of the person
+  - **age** - ahe of the person
+  - **unique** - whether the person is unique
+  - **country** - person's country
+  - **region** - region of the person
+  - **gender** - person's gender
+- The data was mostly (approximately **90%**) collected indoor, however there are also original  videos made outdoors.
 - The lighting is artificial in **80%** of cases,  **5%** natural daily lightning, **5%** evening outdoor lighting, **10%** - dark indoor lighting.
-- People turn their heads, videos and photos are filmed so that the head takes up at least 1/2 of the frame.
-- Distance from the camera is approximately 30 centimeters.
+- On the played video people turn their heads, videos and photos are filmed so that the head takes up at least 1/2 of the frame.
+- On the attack video there is a gradual zoom on the phone screen with a selfie video.
 
 ### People in the dataset
 ![Desktop - 1 (1)](https://github.com/trainingdata-pro/Anti-Spoofing-Replay-Dataset/assets/113421352/c8fb7c56-616c-41b6-8c71-5db9795216fe)
