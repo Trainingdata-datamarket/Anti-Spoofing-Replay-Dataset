@@ -71,7 +71,8 @@ The dataset consists of 26,591 videos of replay attacks from 24,000+ unique peop
 
 ### Extensions of files in the dataset
 
-![image](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/6fa09600-c1db-4376-8a75-3c813f4146ff)
+![image](https://github.com/trainingdata-pro/Anti-Spoofing-Replay-Dataset/assets/113421352/08e7a3b9-1968-4e3c-bfe4-1379da1c920a)
+
 
 <a name="cont"></a>
 # Content
