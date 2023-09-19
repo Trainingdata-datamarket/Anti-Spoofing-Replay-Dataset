@@ -30,7 +30,8 @@ The dataset consists of 26,591 videos of replay attacks from 24,000+ unique peop
 - On the attack video there is a gradual zoom on the phone screen with a selfie video.
 
 ### People in the dataset
-![Desktop - 1 (1)](https://github.com/trainingdata-pro/Anti-Spoofing-Replay-Dataset/assets/113421352/c8fb7c56-616c-41b6-8c71-5db9795216fe)
+
+![Frame 19](https://github.com/Trainingdata-datamarket/Anti-Spoofing-Replay-Dataset/assets/113421352/50313e49-239b-4691-a2eb-f21fb4d5f822)
 
 <a name="dist"></a>
 # Distributions
@@ -66,7 +67,7 @@ includes the following information for each media file:
 # Get the Dataset
 This is just an example of the data. If you need access to the entire dataset, contact us via [sales@trainingdata.pro](mailto:sales@trainingdata.pro) or leave a request on **[trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github)**
 
-![Untitled (2) (1) (1)](https://github.com/trainingdata-pro/Anti-Spoofing-Replay-Dataset/assets/113421352/c15814f4-3f34-4913-afa9-e7042c1bc0fe)
+![0001ffba3c--62880080572a894c5df8f427__Samsung Galaxy J2 Core __Samsung Galaxy A22](https://github.com/Trainingdata-datamarket/Anti-Spoofing-Replay-Dataset/assets/113421352/45ea3abf-abf5-425a-8782-736ad4e24d5c)
 
 <a name="link"></a>
 # Links
